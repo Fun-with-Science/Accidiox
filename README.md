@@ -133,5 +133,4 @@ Working end-to-end prototype, deployed and in use for demos.
 
 ## Team
 
-Built by **Team Titans** for KAYA 2026. Ask before reusing the hospital
-dispatch protocol commercially.
+Built by **Team Titans** for KAYA 2026.
